@@ -1,0 +1,40 @@
+<resources>
+    <string name="in_cio">Início</string>
+    <string name="categorias">Categorias</string>
+    <string name="mercado">Mercado</string>
+    <string name="perfil">Perfil</string>
+    <string name="app_name">Natusaude</string>
+    <string-array name="formas_pagamento">
+        <item>Cartão de Crédito</item>
+        <item>Cartão de Débito</item>
+        <item>Pix</item>
+    </string-array>
+</resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NatuSaude" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+       <!-- <item name="colorOnPrimary">@color/white</item>-->
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <!-- outros itens do tema -->
+    </style>
+</resources>
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Natusaude" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <!-- outras cores -->
+</resources>
+
+
