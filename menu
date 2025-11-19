@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/icon_home"
+        android:title="@string/in_cio"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/nav_categories"
+        android:icon="@drawable/icon_category"
+        android:title="@string/categorias"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/nav_market"
+        android:icon="@drawable/icon_mercado"
+        android:title="@string/mercado"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/icon_profile"
+        android:title="@string/perfil"
+        app:showAsAction="withText" />
+</menu>
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/icon_home"
+        android:title="@string/in_cio"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/nav_categories"
+        android:icon="@drawable/icon_category"
+        android:title="@string/categorias"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/nav_market"
+        android:icon="@drawable/icon_mercado"
+        android:title="@string/mercado"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/icon_profile"
+        android:title="@string/perfil"
+        app:showAsAction="withText" />
+
+
+</menu>
